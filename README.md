@@ -7,7 +7,6 @@
 
 ![Alberto GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoemanuldev&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoemanuldev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Technologies I use most
 
 <div style="display: inline_block"><br/>
