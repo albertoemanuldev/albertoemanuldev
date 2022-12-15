@@ -20,4 +20,4 @@
             <img align="center" all="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <div>
 
-  ![Snake animation](https://github.com/albertoemanuldev/albertoemanuldev/output/github-contribution-grid-snake.svg)
+  
