@@ -1,3 +1,14 @@
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Sistemas de Informação.
+- 💼 Trabalhando como Instrutor de TI no SENAI.
+
+
+
+
 ## Minhas Skills
 
 **Aplicações e dados**
