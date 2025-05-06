@@ -20,11 +20,6 @@ Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`\
 
 [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
-<br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/alberto-emanuel-164bbb238/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
