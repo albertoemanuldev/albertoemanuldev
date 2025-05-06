@@ -18,7 +18,6 @@ Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`\
 Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
 
 
 
