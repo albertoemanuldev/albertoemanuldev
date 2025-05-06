@@ -12,7 +12,7 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
-**Instrutor TI ** \
+**Instrutor TI** \
 [**SENAI**](https://al.senai.br/) • Contract \
 Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`\
 <br/>
