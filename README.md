@@ -9,10 +9,12 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
-**Instrutor TI** \
-[**SENAI**](https://al.senai.br/) • Contract \
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yantec.com.br/assets/images/logo-1.svg"/>](https://yantec.com.br/)
+
+**Analista de TI** \
+[**YanTec**](https://al.senai.br/) • Contract \
 Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`\
 <br/>
 
