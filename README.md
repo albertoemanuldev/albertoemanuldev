@@ -2,7 +2,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://al.senai.br/wp-content/themes/portal_sesisenai/assets/img/senai.svg"/>](https://al.senai.br/)
 
 **Instrutor TI** \
 [**SENAI**](https://al.senai.br/) • Contract \
