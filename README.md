@@ -13,7 +13,7 @@
 
 
 ## Minhas Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,kali,php,nodejs,mysql,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,py,linux,kali)](https://skillicons.dev)
 
 
 ### Experiência de trabalho
