@@ -2,6 +2,7 @@
 
 ## Sobre mim
 
+- 🎓 Estudando mais sobre sistemas automatizados com IA
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Sistemas de Informação.
 - 💼 Trabalhando como Instrutor de TI no SENAI.
