@@ -18,6 +18,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+![Python](https://img.shields.io/badge/-Phyton-333333?style=flat&logo=Phyton)
 ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
