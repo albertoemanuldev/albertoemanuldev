@@ -15,6 +15,9 @@
 ## Minhas Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,py,linux,kali)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoemanuldev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Experiência de trabalho
 
