@@ -27,7 +27,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Instrutor TI** \
 [**SENAI**](https://al.senai.br/) • Contract \
-Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`\
+Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`, `PostgreSQL`\
 <br/>
 
 
@@ -35,11 +35,15 @@ Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`\
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yantec.com.br/assets/images/logo-1.svg"/>](https://yantec.com.br/)
 
 **Analista de TI** \
-[**YanTec**](https://al.senai.br/) • Contract \
+[**YanTec**](https://yantec.com.br/) • Contract \
+Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`\
+<br/>
+
+**Freelancer Developer** \
+[**Freelancer**](https://www.linkedin.com/in/alberto-emanuel-164bbb238/) • Contract \
 Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`\
 <br/>
 
 
-
-
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.segredosdatecnologia.com/wp-content/uploads/2019/04/logo-php.png"/>](https://www.php.net/)
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/alberto-emanuel-164bbb238/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
