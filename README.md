@@ -39,7 +39,7 @@ Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`, `PostgreSQL`\
 Linguagens & Tecnologias: `PHP`,`JavaScript`, `Node`, `MySQL`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.segredosdatecnologia.com/wp-content/uploads/2019/04/logo-php.png"/>](https://www.php.net/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.php.net/images/logos/new-php-logo.png"/>](https://www.php.net/)
 
 **Freelancer Developer** \
 [**Freelancer**](https://www.linkedin.com/in/alberto-emanuel-164bbb238/) • Contract \
