@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+## Olá, meu nome é Alberto Emanuel!
+
 ## Sobre mim
 
 - 🎓 Estudando mais sobre sistemas automatizados com IA
@@ -15,7 +17,6 @@
 ## Minhas Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,py,linux,kali)](https://skillicons.dev)
 
-## Olá, meu nome é Alberto Emanuel!
 
 ### ⚙️ GitHub Analytics
 
@@ -47,20 +48,6 @@
 </table>
 
 --- 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=albertoemanuldev&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
 
 
 ### Experiência de trabalho
