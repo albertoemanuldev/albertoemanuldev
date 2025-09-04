@@ -15,7 +15,7 @@
 
 
 ## Minhas Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,postgress,py,linux,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,postgres,py,linux,kali)](https://skillicons.dev)
 
 
 ### ⚙️ GitHub Analytics
