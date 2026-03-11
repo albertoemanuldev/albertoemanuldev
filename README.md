@@ -4,10 +4,24 @@
 
 ## Sobre mim
 
-- 🎓 Estudando mais sobre sistemas automatizados com IA
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Sistemas de Informação.
-- 💼 Trabalhando como Instrutor de TI no SENAI.
+- Full Stack Software Engineer | Backend & Software Architecture Specialist
+
+I am a Full Stack Developer focused on building robust, scalable systems designed to solve real business problems. I have strong experience with PHP and Python (FastAPI/Django), working across the full development lifecycle — from REST API design to containerized deployment using Docker.
+
+- Technical Approach
+
+I don’t just write code — I design maintainable systems.
+I apply Clean Code principles, SOLID, and established Design Patterns to ensure long-term scalability, readability, and architectural consistency.
+
+- Core Expertise
+Backend Engineering:
+PHP, Python, Node.js, SQL/NoSQL databases, RESTful APIs, microservices architecture.
+
+- Modern Frontend Development:
+React and TypeScript for modular, high-performance user interfaces.
+
+- DevOps & Quality Engineering:
+Docker, Redis, CI/CD pipelines, and automated testing (TDD, Pest).
 
 
 
